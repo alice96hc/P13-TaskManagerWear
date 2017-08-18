@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P13-TaskManagerWear</string>
+    <string name="name">name</string>
+    <string name="description">description</string>
+    <string name="add">add</string>
+    <string name="cancel">cancel</string>
+</resources>
